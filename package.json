@@ -1,0 +1,26 @@
+{
+  "name": "sublime3eslint",
+  "version": "1.0.0",
+  "description": "template config sublimetext3 eslint",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: No se ha especificado Test aun\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalbertomr/sublime3ESLint.git"
+  },
+  "keywords": [
+    "sublimetext3",
+    "ESLint"
+  ],
+  "author": "jalbertomr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalbertomr/sublime3ESLint/issues"
+  },
+  "homepage": "https://github.com/jalbertomr/sublime3ESLint#readme",
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
